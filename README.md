@@ -5,10 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_muhammad_tariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_muhammad_tariq" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad3" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13001271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13001271" height="30" width="40" /></a>
-<a href="https://kaggle.com/mt4948" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mt4948" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad6t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad6t" height="30" width="40" /></a>
 <a href="https://instagram.com/__muhammad_tariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__muhammad_tariq" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/quickstu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="quickstu" height="30" width="40" /></a>
