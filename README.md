@@ -5,7 +5,7 @@
       <img align="left" width="320" height="150" alt="HI" src="https://raw.githubusercontent.com/mt057/mt057/main/assets/avatar.png" />
     </th >
     <th align="left">
-      <img align="left" width="420" height="50" alt="I'm Ahmad Tariq" src="https://readme-typing-svg.herokuapp.com?font=Franklin+Gothic&color=0088CC&size=34&vCenter=true&lines=I'm+Muhammad+Tariq;Welcome+To+My+Profile;A+passionate+Software+Engineer+from+Pakistan;Glad+To+See+You" />
+      <img align="left" width="420" height="50" alt="I'm Muhammad Tariq" src="https://readme-typing-svg.herokuapp.com?font=Franklin+Gothic&color=0088CC&size=34&vCenter=true&lines=I'm+Muhammad+Tariq;Welcome+To+My+Profile;A+passionate+Software+Engineer+from+Pakistan;Glad+To+See+You" />
     </th>
   </tr>
   <tr>
