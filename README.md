@@ -52,9 +52,9 @@
 
 ###  More About Me: -
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **React JS**
 
-- 🌱 I’m currently learning **Django, Django REST Framework**
+- 🌱 I’m currently learning **React JS**
 
 - 👨‍💻 All of my projects are available at [YouTube](www.youtube.com/@bequickstudy) & [GitHub](https://github.com/mt057)
 
