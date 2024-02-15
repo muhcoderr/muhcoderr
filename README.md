@@ -26,21 +26,18 @@
     </td>
     <td align="center">
       <div align="center">
-<a href="https://www.instagram.com/__muhammad_tariq/" target="_blank">
+<a href="https://www.instagram.com/muhcoder/" target="_blank">
 <img src=https://img.shields.io/badge/-Instagram-c32aa3?style=flat&logo=Instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" align="center" />
 </a>
 
-<a href="https://t.me/bequickstudy" target="_blank">
+<a href="https://t.me/muhcoder" target="_blank">
 <img src=https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=Telegram&logoColor=white alt=Telegram style="margin-bottom: 5px;" align="center"/>
 </a>
 
-<a href="https://www.linkedin.com/in/muhammad3/" target="_blank">
+<a href="https://www.linkedin.com/in/muhcoder/" target="_blank">
 <img src=https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" align="center"/>
 </a> 
-
-<a href="https://www.youtube.com/@BEQuickStudy" target="_blank">
-<img src=https://img.shields.io/badge/-Youtube-ff0000?style=flat&logo=Youtube&logoColor=white alt=Youtube style="margin-bottom: 5px;" align="center"/>
-</a>      
+      
 </div>
     </td>
   </tr>
