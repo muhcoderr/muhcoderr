@@ -51,17 +51,19 @@
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mt057/mt057/main/assets/coder.gif" />
 
-###  More About Me: -
+###  More About Me🤔: -
 
-- 🔭 I’m currently working on **React JS**
+- 🔭 I’m currently working on **MEDICAL WEB APPLICATION IN REACT-JS & NODE-JS**
 
-- 🌱 I’m currently learning **React JS**
+- 🤝 I'm looking for a **UI/UX & MERN STACK DEVELOPER** for the teamwork
 
-- 👨‍💻 All of my projects are available at [YouTube](www.youtube.com/@bequickstudy) & [GitHub](https://github.com/mt057)
+- 🌱 I’m currently learning **React JS, NODE JS & API DEVELOPMENT**
+
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/muhcoderr)
 
 - 💬 Ask me about **anything tech related, I am happy to help**
 
-- 📫 How to reach me **[Gmail](muhammad4948@gmail.com) & [Telegram](https://t.me/bequickstudy)**
+- 📫 How to reach me **[Gmail](muhammad4948@gmail.com) & [Telegram](https://t.me/muhcoder)**
 
 
 <h3 align="left">Languages and Tools:</h3>
