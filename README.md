@@ -26,6 +26,10 @@
     </td>
     <td align="center">
       <div align="center">
+        <a href="https://www.facebook.com/muhcoder" target="_blank">
+<img src=https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=Facebook&logoColor=white alt=Facebook style="margin-bottom: 5px;" align="center"/>
+</a>
+        
 <a href="https://www.instagram.com/muhcoder/" target="_blank">
 <img src=https://img.shields.io/badge/-Instagram-c32aa3?style=flat&logo=Instagram&logoColor=white alt=Instagram style="margin-bottom: 5px;" align="center" />
 </a>
