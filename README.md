@@ -2,7 +2,7 @@
 <thead>
   <tr>
     <th rowspan="2">
-      <img align="left" width="320" height="150" alt="HI" src="https://raw.githubusercontent.com/mt057/mt057/main/assets/avatar.png" />
+      <img align="left" width="320" height="150" alt="HI" src="https://raw.githubusercontent.com/muhcoderr/muhcoderr/main/assets/avatar.png" />
     </th >
     <th align="left">
       <img align="left" width="420" height="50" alt="I'm Muhammad Tariq" src="https://readme-typing-svg.herokuapp.com?font=Franklin+Gothic&color=0088CC&size=34&vCenter=true&lines=I'm+Muhammad+Tariq;Welcome+To+My+Profile;A+passionate+Software+Engineer+from+Pakistan;Glad+To+See+You" />
@@ -21,7 +21,7 @@
   <tr>
     <td align="center">
       <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=mt057&0088cc&style=flat" alt="Profile Score" align="center" />
+      <img src="https://komarev.com/ghpvc/?username=muhcoderr&0088cc&style=flat" alt="Profile Score" align="center" />
       </div>
     </td>
     <td align="center">
@@ -49,7 +49,7 @@
 </table>
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mt057/mt057/main/assets/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/muhcoderr/muhcoderr/main/assets/coder.gif" />
 
 ###  More About Me🤔: -
 
@@ -72,6 +72,6 @@
 <details>	
   <summary><b>Github Stats ⚡</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mt057&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mt057&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhcoderr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhcoderr&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>
 </details>
