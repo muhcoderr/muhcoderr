@@ -53,9 +53,9 @@
 
 ###  More About Me🤔: -
 
-- 🔭 I’m currently working on **MEDICAL WEB APPLICATION IN REACT-JS & NODE-JS**
+- 🔭 I’m currently working on **OMIDNETCARE MEDICAL WEB APPLICATION IN REACT-JS & SWIFTFINDAI Web App IN Next-JS**
 
-- 🤝 I'm looking for a **UI/UX & MERN STACK DEVELOPER** for the teamwork
+- 🤝 I'm looking for a **UI/UX & FULL STACK DEVELOPER** for the teamwork
 
 - 🌱 I’m currently learning **React JS, NODE JS & API DEVELOPMENT**
 
