@@ -23,6 +23,8 @@
 - ⚛️ I build modern web applications using **React.js** and **Next.js**.
 - 🗄️ I work with **PostgreSQL**, **MongoDB**, and scalable backend systems.
 - 🚀 I focus on creating reliable products for real-world use cases.
+- 📚 I am always learning, improving, and adapting to modern development practices.
+- 🤝 I enjoy turning ideas into clean, user-focused digital experiences.
 
 ### 🌍 Portfolio & Projects
 
@@ -65,10 +67,13 @@
   <a href="https://snapchat.com/add/muhcoder">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat" />
   </a>
-  <a href="mailto:muhammad@muhcoder.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
   <a href="https://t.me/muhcoder">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+</p>
+
+### 📫 Email
+
+<p>
+  <a href="mailto:muhammad@muhcoder.com">muhammad@muhcoder.com</a>
 </p>
